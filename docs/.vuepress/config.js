@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Ragnarok',
+  title: 'Record of Ragnarok',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -32,6 +32,12 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
+    nav: [
+      {
+        text: 'Manga',
+        link: '/manga/',
+      },
+    ],
     sidebar: {
       
       '/manga/': [
