@@ -46,7 +46,9 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'chapter-1',
+            'chapter-68',
+            'chapter-69',
+            'chapter-70',
           ]
         }
       ],
