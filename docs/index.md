@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://static.wikia.nocookie.net/shuumatsu-no-valkyrie/images/7/73/Ragnarok_fighters.png
+heroImage: https://www.gamerfocus.co/wp-content/uploads/2021/08/shuumatsu_no_valkyrie.jpeg
 tagline:
 actionText: Read Now →
 actionLink: /manga/
