@@ -57,6 +57,8 @@ module.exports = {
             'chapter-59',
             'chapter-60',
             'chapter-61',
+            'chapter-61-2',
+            'chapter-61-5',
             'chapter-62',
             'chapter-63',
             'chapter-64',

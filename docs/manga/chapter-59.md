@@ -161,4 +161,5 @@
 ![manga-chapter-59-80.jpg](https://cdn.hxmanga.com/file/majekayoo/record-of-ragnarok/Chapter-59/80.jpg)
 
 ![manga-chapter-59-81.jpg](https://cdn.hxmanga.com/file/majekayoo/record-of-ragnarok/Chapter-59/81.jpg)
+
 **<center>• End of Chapter 59 •</center>**
