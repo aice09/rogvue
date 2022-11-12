@@ -4,9 +4,9 @@
 
 Record of Ragnarok is a Japanese manga series written by Shinya Umemura and Takumi Fukui and illustrated by Ajichika. It began in Coamix's seinen manga magazine Monthly Comic Zenon in November 2017. It was licensed in North America by Viz Media in June 2021. Wikipedia
 
-Authors: Ajichika, Shinya Umemura, Takumi Fukui
-Studio: Graphinica; Yumeta Company (season 2)
-English publisher: NA Viz Media
-Music by: Yasuharu Takanashi
-Published by: Tokuma Shoten (former); Coamix
-Released: June 17, 2021 – present
+**Authors:** [Ajichika](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Ajichika&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwKbKwNK2yVIJw08yLsworcg215LOTrfST8vOz9XMyS1KLEosq44tTizJTi60SS0sy8osWsXI4ZmUmZ2RmJ-5gZdzFzsTBCAAkD_nfVAAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoAXoECGgQAw), [Shinya Umemura](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Shinya+Umemura&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwKbKwNK2yVOIBc41LqnIrqwq05LOTrfST8vOz9XMyS1KLEosq44tTizJTi60SS0sy8osWsfIFZ2TmVSYqhOam5pYWJe5gZdzFzsTBCACO1mNcWQAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoAnoECGgQBA), [Takumi Fukui](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Takumi+Fukui&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwKbKwNK2yVIJw0_KSki0tc7O15LOTrfST8vOz9XMyS1KLEosq44tTizJTi60SS0sy8osWsfKEJGaX5mYquJVml2buYGXcxc7EwQgAHBCb_VgAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoA3oECGgQBQ) <br>
+**Studio:** [Graphinica](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Graphinica&stick=H4sIAAAAAAAAAONgVuLRT9c3NCqrKsgzqUpexMrlXpRYkJGZl5mcCABdIiS6HQAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoAXoECGcQAw); [Yumeta Company](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Yumeta+Company&stick=H4sIAAAAAAAAAONgVuLSz9U3yEuyMM5LWsTKF1mam1qSqOCcn1uQmFcJAIUZeOEfAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoAnoECGcQBA) (season 2)<br>
+**English publisher:** NA [Viz Media](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Viz+Media&stick=H4sIAAAAAAAAAONgVuLUz9U3MC3JSrZcxMoZllml4JuakpkIAGXhxu4ZAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoAXoECGYQAw)<br>
+**Music by:** [Yasuharu Takanashi](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Yasuharu+Takanashi&stick=H4sIAAAAAAAAAONgVuLSz9U3yDA1ysouX8QqFJlYXJqRWFSqEJKYnZiXWJyRCQBxTBDCIwAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoAXoECGUQAw)<br>
+**Published by:** [Tokuma Shoten](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Tokuma+Shoten&stick=H4sIAAAAAAAAAONgVuLUz9U3sExLK0tfxMobkp9dmpuoEJyRX5KaBwC0gpVZHQAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoAXoECHUQAw) (former); [Coamix](https://www.google.com/search?sxsrf=ALiCzsb__Z6A_wgz3O4vd22eHZgut0mZmg:1668232564682&q=Coamix&stick=H4sIAAAAAAAAAONgVuLSz9U3ME7OLaxKWcTK5pyfmJtZAQAXvVVCFwAAAA&sa=X&ved=2ahUKEwikra7L-qf7AhWY0GEKHbzFBkQQmxMoAnoECHUQBA)<br>
+**Released:** June 17, 2021 – present

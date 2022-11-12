@@ -84,4 +84,4 @@
 
 ![manga-chapter-68-42.jpg](https://cdn.hxmanga.com/file/majekayoo/record-of-ragnarok/Chapter-68/42.jpg)
 
-End of Chapter 68
+**<center>• End of Chapter 68 •</center>**

@@ -72,4 +72,4 @@
 
 ![manga-chapter-69-36.jpg](https://cdn.hxmanga.com/file/majekayoo/record-of-ragnarok/Chapter-69/36.jpg)
 
-End of Chapter 69
+**<center>• End of Chapter 69 •</center>**

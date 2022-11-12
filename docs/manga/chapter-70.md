@@ -42,4 +42,4 @@
 
 ![manga-chapter-70-21.png](https://cdn.hxmanga.com/file/majekayoo/record-of-ragnarok/Chapter-70/21.png)
 
-End of Chapter 70
+**<center>• End of Chapter 70 •</center>**
