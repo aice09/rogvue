@@ -103,6 +103,7 @@ module.exports = {
             'chapter-68',
             'chapter-69',
             'chapter-70',
+            'chapter-71',
           ]
         }
       ],
